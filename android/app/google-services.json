@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8945929363",
+    "project_id": "calculadora-gorjeta-d1d12",
+    "storage_bucket": "calculadora-gorjeta-d1d12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8945929363:android:69043cfb3bdf2c2f949166",
+        "android_client_info": {
+          "package_name": "com.example.calculadora_gorjeta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxQ6CJy0zdFC-AN3KKiocRmoMXMQuxLKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
