@@ -1,0 +1,4 @@
+#Mon Mar 24 21:43:30 BRT 2025
+base.0=C\:\\Users\\SAMSUNG\\calculadora_gorjeta\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
